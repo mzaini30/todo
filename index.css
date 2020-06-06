@@ -1,0 +1,15 @@
+* {
+ word-wrap: break-word;
+}
+body {
+ padding-top: 70px;
+ padding-bottom: 50px;
+}
+.navbar-fixed-bottom .table {
+ margin-bottom: 0;
+}
+.navbar-fixed-bottom .table,
+.navbar-fixed-bottom tr,
+.navbar-fixed-bottom td {
+ border: none !important;
+}
